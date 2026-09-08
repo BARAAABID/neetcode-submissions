@@ -31,7 +31,7 @@ a problem calls for, and being able to talk through the time/space tradeoffs on 
 
 | Pattern | Solved | Total | Progress |
 |---|:---:|:---:|---|
-| Arrays & Hashing | 0 | 9 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜ |
+| Arrays & Hashing | 4 | 9 | 🟩🟩🟩🟩⬜⬜⬜⬜⬜ |
 | Two Pointers | 0 | 5 | ⬜⬜⬜⬜⬜ |
 | Sliding Window | 0 | 6 | ⬜⬜⬜⬜⬜⬜ |
 | Stack | 0 | 7 | ⬜⬜⬜⬜⬜⬜⬜ |
@@ -49,7 +49,7 @@ a problem calls for, and being able to talk through the time/space tradeoffs on 
 | Intervals | 0 | 6 | ⬜⬜⬜⬜⬜⬜ |
 | Math & Geometry | 0 | 8 | ⬜⬜⬜⬜⬜⬜⬜⬜ |
 | Bit Manipulation | 0 | 7 | ⬜⬜⬜⬜⬜⬜⬜ |
-| **Total** | **0** | **150** | **0%** |
+| **Total** | **4** | **150** | **~3%** |
 
 ---
 
